@@ -1,0 +1,5 @@
+name = input('請輸入名字:')
+print('你好', name, '很高興認識你')
+height = input('請輸入你身高')
+weight = input('請輸入你的體重')
+print('您的體重為', height, '公分', ',', '您的體重為', weight, '公斤')
